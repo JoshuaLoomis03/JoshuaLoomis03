@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoshuaLoomis03
+- 👀 I’m interested in game development and sound design
+- 🌱 I’m currently learning Unity and C#
+- 📫 How to reach me joshua.n.loomis@gmail.com
